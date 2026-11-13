@@ -9,3 +9,9 @@ proyek AI Video.
 
 ## Status
 In Progress
+
+## Project Team
+
+- Project Manager
+- Risk Manager
+- Business Analyst
