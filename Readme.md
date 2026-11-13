@@ -4,17 +4,27 @@ Repository pertama saya untuk belajar
 menggunakan GitHub.
 
 ## Tujuan
+
 Mempelajari GitHub dan mengembangkan
 proyek AI Video.
 
 ## Status
+
 In Progress
 
 ## Project Team
 
-- Project Manager
-- Risk Manager
-- Business Analyst
+* Project Manager
+* Risk Manager
+* Business Analyst
+
 
 
 tes improvement
+
+
+
+
+
+coba informasi baru ini
+
